@@ -1,16 +1,13 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/SUcApSWjPwQMARvcM8/giphy.gif" width="100"/>
+</div>
 
-<!--
-**YanisLcn/YanisLcn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## HELLO WORLD
 
-Here are some ideas to get you started:
+My name is Yanis, I am a french CS student at [Université Paris Cité](https://u-paris.fr/).
+- 🔭 I’m currently working on nothing, well I am a student after all. Nevertheless, would love to become an apprentice.
+- 🌱 I’m currently learning as much as possible. Either in classes, or in my spare time but the main themes I want to get better at are probably Rust and network engineering.
+- 💬 Ask me about anything, I will be glad to talk to new people !
+- 📫 How to reach me: yanis.lacenne@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
